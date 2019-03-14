@@ -16,5 +16,5 @@ const createFareMultiplier = function (someInteger){
   }
 } 
 
-const fareDoubler = createFareMultiplier(2)
+const fareDoubler = createFareMultiplier(2);
   
